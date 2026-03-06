@@ -12,4 +12,4 @@ I build things end-to-end — from rough idea to production — across the full 
 
 📍 Rome, Italy
 
-🌐 **[nicola.github.io](https://nicola.github.io)**
+🌐 **[nicogall.github.io](https://nicogall.github.io)**
