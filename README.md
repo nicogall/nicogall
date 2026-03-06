@@ -10,4 +10,6 @@ I build things end-to-end — from rough idea to production — across the full 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a1a2e?style=flat-square&logo=hackthebox&logoColor=9fef00)
 ![Full Stack](https://img.shields.io/badge/Full--Stack-0f172a?style=flat-square&logo=stackoverflowicon&logoColor=white)
 
+📍 Rome, Italy
+
 🌐 **[nicola.github.io](https://nicola.github.io)**
